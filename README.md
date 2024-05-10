@@ -1,4 +1,4 @@
-### Hi there 👋
+### its_ji 🦭
 I am still learning to code. 
 I will edit this when I get the time.
 
