@@ -1,4 +1,4 @@
-### its_ji 🦭
+### its_jai 🦭
 I am still learning to code. 
 I will edit this when I get the time.
 
