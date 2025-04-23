@@ -1,6 +1,5 @@
 ### its_jai 🦭
-I am still learning to code. 
-I will edit this when I get the time.
+
 
 <!--
 **calm-chaos/calm-chaos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
